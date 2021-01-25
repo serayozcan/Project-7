@@ -8,13 +8,15 @@ It is the code for working fine with HC-SR04 and MLC9X0614 sensor using I2C. The
 
 **Connections 
 HC-SR04 Ultrasonic Distance Sensor
-5V – VCC
-0V – GND
+(5V – VCC)
+(0V – GND)
+(PE2-Trig)
+(PE3- Echo)
 MLX90614 Single Infra Red Thermometer 
-PD0 – SCL\n
-PD1 – SDA \n
-3.3V – VCC
-0V – GND
+(PD0 – SCL)
+(PD1 – SDA )
+(3.3V – VCC)
+(0V – GND)
 Please make the connections right.
 
 **Project Procedure
