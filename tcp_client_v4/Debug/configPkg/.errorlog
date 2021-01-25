@@ -1,0 +1,3 @@
+error: ti.sysbios.family.arm.lm4.Timer: "C:/ti/tirtos_tivac_2_16_00_08/products/bios_6_45_01_29/packages/ti/sysbios/family/arm/lm4/Timer.xs", line 186: ti.sysbios.family.arm.lm4.Timer.Instance#1 : Timer 0 is already in use or reserved (check availMask).
+js: "C:/ti/xdctools_3_32_00_06_core/packages/xdc/cfg/Main.xs", line 160: Error: Configuration failed!
+xdctools_3_32_00_06_core\gmake.exe: *** [package/cfg/httpget_pem4f.xdl] Error 1
