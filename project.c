@@ -34,6 +34,7 @@
 #define INCOMING_PORT     5030
 #define SERVERIP          "132.163.96.4"
 #define SERVERPORT         37
+#define MLX90614_ADD 0x57
 char timeMessage[100];
 int day, month, year, hour, minute , second ;
 extern Semaphore_Handle semaphore0;     // posted by httpTask and pended by clientTask
