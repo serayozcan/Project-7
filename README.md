@@ -11,8 +11,8 @@ HC-SR04 Ultrasonic Distance Sensor
 5V – VCC
 0V – GND
 MLX90614 Single Infra Red Thermometer 
-PD0 – SCL
-PD1 – SDA 
+PD0 – SCL\n
+PD1 – SDA \n
 3.3V – VCC
 0V – GND
 Please make the connections right.
